@@ -26,9 +26,14 @@ Tugas Member:
 Bukti Tugas Member:
 - Tanu Hasyim
 
+
 - Nayla Rahman Farhanah
+
 
 - Mohammad Satria Dinilhaq
 
-Tugas Bersama:
-1. Diskusi Penentuan Tema (notulen diskusi _siapa mengajukan apa_)
+
+Tugas Bersama Diskusi Penentuan Tema:
+- PinjamIn - Peminjaman dan Pengembalian barang (Mohammad Satria Dinilhaq)
+- KopiKuy - aplikasi kasir coffee shop (Faiz Muzaki Irsyad)
+- FiNote - aplikasi personal budgeting
