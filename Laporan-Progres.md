@@ -24,12 +24,10 @@ Tugas Member:
 
 Bukti Tugas Member:
 - Tanu Hasyim
-  
+
 - Nayla Rahman Farhanah
 
 - Mohammad Satria Dinilhaq
 
 Tugas Bersama:
 1. Diskusi Penentuan Tema (notulen diskusi _siapa mengajukan apa_)
-
-PUSH
