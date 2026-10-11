@@ -15,6 +15,7 @@ WAJIB BAGI PM/mirorring dari hp pun bolehhh: install bluestacks 5 -> buka lalu l
 
 Bukti PM:
 ![alt text](<image.png>)
+![alt text](video.gif)
 
 Tugas Member:
 1. Accept invitation
