@@ -25,7 +25,9 @@ Tugas Member:
 
 Bukti Tugas Member:
 - Tanu Hasyim
-
+![alt text](<SS-Invitation-Email-Tanu_Hasyim.png>)
+![alt text](<SS-Invitation-GitHub-Tanu_Hasyim.png>)
+![alt text](GitClone-Tanu_Hasyim.gif)
 
 - Nayla Rahman Farhanah
 
