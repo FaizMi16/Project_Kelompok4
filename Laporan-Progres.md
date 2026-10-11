@@ -1,41 +1,54 @@
-# Laporan Progress Kelompok 4 #
-## Anggota Kelompok ##
+# Laporan Progress Kelompok 4
+
+## Anggota Kelompok
+
 1. Faiz Muzaki Irsyad
 2. Tanu Hasyim
 3. Nayla Rahman Farhanah
 4. Mohammad Satria Dinilhaq
 
-### Progress 1: Pertemuan 5 ###
+### Progress 1: Pertemuan 5
+
 1. PM membuat repository dan invite member
 2. Konfirmasi Bukti -> _ss bagian colaborators_
 3. PM membuat inisiasi Proyek
-4. Konfirmasi bukti 
-_buka terminal, ketik npx create-expo-app@latest lalu isi nama proyeknya (misal kelompok6) dan enter. jika sudah selesai masuk ke cd kelompok6 -> npm run web_
-WAJIB BAGI PM/mirorring dari hp pun bolehhh: install bluestacks 5 -> buka lalu login gmail -> search expo go dan install -> buka lalu copy bagian metro dari vscode dan paste di bagian url di expo go -> record utk konfirmasi bukti (convert videonya jadi gif)SsS
+4. Konfirmasi bukti
+   _buka terminal, ketik npx create-expo-app@latest lalu isi nama proyeknya (misal kelompok6) dan enter. jika sudah selesai masuk ke cd kelompok6 -> npm run web_
+   WAJIB BAGI PM/mirorring dari hp pun bolehhh: install bluestacks 5 -> buka lalu login gmail -> search expo go dan install -> buka lalu copy bagian metro dari vscode dan paste di bagian url di expo go -> record utk konfirmasi bukti (convert videonya jadi gif)SsS
 
 Bukti PM:
-![alt text](<image.png>)
+![alt text](image.png)
 ![alt text](video.gif)
 
 Tugas Member:
+
 1. Accept invitation
 2. Bukti Konfirmasi -> _semua anggota harus meneyrtakan buktinya_
 3. Clone Proyek
 4. Bukti Konfirmasi -> _semua anggota harus meneyrtakan buktinya_
 
 Bukti Tugas Member:
+<<<<<<< Updated upstream
 - Tanu Hasyim
 ![alt text](<SS-Invitation-Email-Tanu_Hasyim.png>)
 ![alt text](<SS-Invitation-GitHub-Tanu_Hasyim.png>)
 ![alt text](GitClone-Tanu_Hasyim.gif)
+=======
+
+- Tanu Hasyim
+>>>>>>> Stashed changes
 
 - Nayla Rahman Farhanah
 
-
 - Mohammad Satria Dinilhaq
+  Bukti Clone Repo
+  ![alt text](image-1.png)
 
+  Bukti acc invite
+  ![alt text](image-2.png)
 
 Tugas Bersama Diskusi Penentuan Tema:
+
 - PinjamIn - Peminjaman dan Pengembalian barang (Mohammad Satria Dinilhaq)
 - KopiKuy - aplikasi kasir coffee shop (Faiz Muzaki Irsyad)
 - FiNote - aplikasi personal budgeting
