@@ -29,14 +29,16 @@ Tugas Member:
 
 Bukti Tugas Member:
 <<<<<<< Updated upstream
-- Tanu Hasyim
-![alt text](<SS-Invitation-Email-Tanu_Hasyim.png>)
-![alt text](<SS-Invitation-GitHub-Tanu_Hasyim.png>)
-![alt text](GitClone-Tanu_Hasyim.gif)
-=======
 
 - Tanu Hasyim
->>>>>>> Stashed changes
+  ![alt text](SS-Invitation-Email-Tanu_Hasyim.png)
+  ![alt text](SS-Invitation-GitHub-Tanu_Hasyim.png)
+  ![alt text](GitClone-Tanu_Hasyim.gif)
+  =======
+
+- Tanu Hasyim
+
+  > > > > > > > Stashed changes
 
 - Nayla Rahman Farhanah
 
@@ -45,6 +47,7 @@ Bukti Tugas Member:
   ![alt text](image-1.png)
 
   Bukti acc invite
+  ![alt text](image-3.png)
   ![alt text](image-2.png)
 
 Tugas Bersama Diskusi Penentuan Tema:
