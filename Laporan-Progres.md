@@ -28,17 +28,14 @@ Tugas Member:
 4. Bukti Konfirmasi -> _semua anggota harus meneyrtakan buktinya_
 
 Bukti Tugas Member:
-<<<<<<< Updated upstream
+
 - Tanu Hasyim
 ![alt text](<SS-Invitation-Email-Tanu_Hasyim.png>)
 ![alt text](<SS-Invitation-GitHub-Tanu_Hasyim.png>)
 ![alt text](GitClone-Tanu_Hasyim.gif)
-=======
-
-- Tanu Hasyim
->>>>>>> Stashed changes
 
 - Nayla Rahman Farhanah
+![alt text](<WhatsApp Image 2026-10-12 at 08.30.02.jpeg>)
 
 - Mohammad Satria Dinilhaq
   Bukti Clone Repo
